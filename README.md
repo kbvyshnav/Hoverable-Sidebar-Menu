@@ -24,6 +24,7 @@ Open menuindex.html in your web browser.
 
 Contributing:
 
+[!NOTE] 
 Contributions are not currently being accepted as this is a personal learning project.
 
 
