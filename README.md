@@ -24,3 +24,6 @@ This project is part of my learning journey in web development. Feel free to exp
 
 > [!NOTE]
 > Contributions are not currently being accepted as this is a personal learning project.
+
+![Screenshot of Sidebar Menu](/images/Screenshot%201.png)
+
